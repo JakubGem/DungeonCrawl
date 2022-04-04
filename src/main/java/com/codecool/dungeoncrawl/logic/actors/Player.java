@@ -20,7 +20,7 @@ public class Player extends Actor {
     public Player(Cell cell) {
         super(cell);
         this.setStrength(5);
-        this.setHealth(15);
+        this.setHealth(1);
     }
 
     public String getTileName() {
