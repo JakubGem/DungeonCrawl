@@ -17,7 +17,7 @@ Frontend technologies:
 
 - Javafx
 
-![image](https://user-images.githubusercontent.com/89380131/165110143-bd5a7df3-74ca-4898-bbe5-9ac5d32b6aea.png)
+![image](https://user-images.githubusercontent.com/89380131/165111147-3ca45661-8759-4245-99c3-b11324bbec3b.png)
 
 
 ![image](https://user-images.githubusercontent.com/89380131/165110663-5dc5da74-e240-4c07-b3e0-1e1423bfc1a5.png)
