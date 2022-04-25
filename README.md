@@ -17,6 +17,13 @@ Frontend technologies:
 
 - Javafx
 
+## Developers team
+
+* [Jakub Gembicki](https://github.com/JakubGem)
+* [Sebastian Ryndak](https://github.com/SebastianRyndak)
+* [Karolina Gliszczyńska](https://github.com/KarolinaGliszczynska)
+
+
 ![image](https://user-images.githubusercontent.com/89380131/165111147-3ca45661-8759-4245-99c3-b11324bbec3b.png)
 
 
